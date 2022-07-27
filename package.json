@@ -48,6 +48,6 @@
   "dependencies": {
     "eosjs-signature-provider-interface": "^0.1.1",
     "qs": "^6.5.2",
-    "uuid": "^3.3.2"
+    "uuid": "^3.4.0"
   }
 }
