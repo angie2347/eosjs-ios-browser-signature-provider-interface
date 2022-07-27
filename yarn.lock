@@ -230,15 +230,15 @@ eosjs-ecc@4.0.4:
     ecurve "^1.0.5"
     randombytes "^2.0.5"
 
-eosjs-signature-provider-interface@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/eosjs-signature-provider-interface/-/eosjs-signature-provider-interface-0.1.1.tgz#b91e7e4ac5ce5a6c37c93c49412291f22c30facf"
-  integrity sha512-6A3ecy1GExc+f2IVVHF7klEAUzSt3CvTg90CrfeqOhC/3XZS98v0faYtSAgWAE7SBsfGyMCASESmqPwelKpKDg==
+eosjs-signature-provider-interface@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/eosjs-signature-provider-interface/-/eosjs-signature-provider-interface-0.1.2.tgz#6f434835a7493eabf26d90ea3dbb53e6fcfdd3ea"
+  integrity sha512-x7ZYzjmK71dMw+HtIi/VLFJdCGOO6JzD7n/c3Eb7PxGTE8f/F7S3RjY+cGEJXvuToo/QAnmEiVSUgbxbS+NcqQ==
   dependencies:
-    eosjs "^20.0.0"
-    uuid "^3.3.2"
+    eosjs "20.0.0"
+    uuid "3.3.2"
 
-eosjs@^20.0.0:
+eosjs@20.0.0:
   version "20.0.0"
   resolved "https://registry.yarnpkg.com/eosjs/-/eosjs-20.0.0.tgz#43940abfe15cd191ce4027d60294036e914613e9"
   integrity sha512-Ak9CPtZgCFayUmq43X3Nsn4v67lkLfSzEdTUfMk1XAWA5s4HRn7lBTeTeDCzJ/rggi+dZ170VeJwc5T3gPk4HQ==
@@ -529,7 +529,7 @@ typescript@^3.1.6:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.3.3333.tgz#171b2c5af66c59e9431199117a3bcadc66fdcfd6"
   integrity sha512-JjSKsAfuHBE/fB2oZ8NxtRTk5iGcg6hkYXMnZ3Wc+b2RSqejEqTaem11mHASMnFilHrax3sLK0GDzcJrekZYLw==
 
-uuid@^3.3.2:
+uuid@3.3.2, uuid@^3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
